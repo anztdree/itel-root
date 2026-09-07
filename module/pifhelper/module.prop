@@ -1,0 +1,6 @@
+id=pifhelper
+name=PIF Perms Helper
+version=1.0
+versionCode=1
+author=andri
+description=Menjaga pif.json terbaca utk PlayIntegrityFork

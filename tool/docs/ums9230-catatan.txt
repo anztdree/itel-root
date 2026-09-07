@@ -1,0 +1,29 @@
+# PERINTAH 1
+
+spd_dump exec_addr 0x65015f48 fdl fdl1-dl.bin 0x65000800 fdl fdl2-dl.bin 0x9efffe00 exec r splloader r uboot e splloader e splloader_bak reset
+
+# PERINTAH 2
+
+spd_dump exec_addr 0x65015f08 fdl fdl1-dl.bin 0x65000800 fdl fdl2-dl.bin 0x9efffe00 exec w uboot fdl2-cboot.bin reset
+
+# GENERATE SPL UNLOCK
+
+gen_spl-unlock splloader.bin
+
+
+# PERINTAH 3
+
+spd_dump exec_addr 0x65015f08 fdl spl-unlock.bin 0x65000800
+
+# PERINTAH 4
+
+spd_dump exec_addr 0x65015f08 fdl fdl1-dl.bin 0x65000800 fdl fdl2-dl.bin 0x9efffe00 exec verbose 2 read_part miscdata 8192 64 m.bin reset
+
+# PERINTAH 5
+
+spd_dump exec_addr 0x65015f08 fdl fdl1-dl.bin 0x65000800 fdl fdl2-dl.bin 0x9efffe00 exec w splloader splloader.bin w uboot uboot.bin reset
+
+
+# PERINTAH 5 KHUSUS REALME 
+
+spd_dump exec_addr 0x65015f08 fdl fdl1-dl.bin 0x65000800 fdl fdl2-dl.bin 0x9efffe00 exec w splloader splloader.bin w uboot uboot.bin w misc misc-wipe reset

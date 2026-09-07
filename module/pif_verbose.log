@@ -1,0 +1,157 @@
+09-06 15:04:22.867 14344 14344 D PIF/Native: Read from file descriptor for 'dex' -> 19972 bytes
+09-06 15:04:22.867 14344 14344 D PIF/Native: Read from file descriptor for 'config' -> 871 bytes
+09-06 15:04:22.867 14344 14344 D PIF/Native: Converting config from prop format to JSON format
+09-06 15:04:23.014 14344 14344 D PIF/Native: JSON contains 32 keys!
+09-06 15:04:23.014 14344 14344 D PIF/Native: Verbose logging (level 100) enabled!
+09-06 15:04:23.014 14344 14344 D PIF/Native: Spoofing SDK Level in Play Store disabled!
+09-06 15:04:23.014 14344 14344 D PIF/Native: Spoofing Fingerprint in Play Store disabled!
+09-06 15:04:30.034 14413 14413 D PIF/Native: Read from file descriptor for 'dex' -> 19972 bytes
+09-06 15:04:30.034 14413 14413 D PIF/Native: Read from file descriptor for 'config' -> 871 bytes
+09-06 15:04:30.034 14413 14413 D PIF/Native: Converting config from prop format to JSON format
+09-06 15:04:30.368 14413 14413 D PIF/Native: JSON contains 32 keys!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Verbose logging (level 100) enabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing SDK Level in Play Store disabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing Fingerprint in Play Store disabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing Build Fields enabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing System Properties enabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing Keystore Provider enabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Spoofing ROM Signature disabled!
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing *.build.id
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding '*.build.id' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing *.security_patch
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding '*.security_patch' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing *api_level
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding '*api_level' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing BRAND
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing DEVICE
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing DEVICE_INITIAL_SDK_INT
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing FINGERPRINT
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ID
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing INCREMENTAL
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing MANUFACTURER
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing MODEL
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing PRODUCT
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing RELEASE
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing SECURITY_PATCH
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing TAGS
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing TYPE
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.boot.flash.locked
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.boot.flash.locked' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.boot.vbmeta.device_state
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.boot.vbmeta.device_state' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.boot.verifiedbootstate
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.boot.verifiedbootstate' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.boot.veritymode
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.boot.veritymode' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.boot.warranty_bit
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.boot.warranty_bit' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.debuggable
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.debuggable' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.secure
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.secure' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing ro.warranty_bit
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'ro.warranty_bit' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Parsing sys.oem_unlock_allowed
+09-06 15:04:30.368 14413 14413 D PIF/Native: Adding 'sys.oem_unlock_allowed' to properties list
+09-06 15:04:30.368 14413 14413 D PIF/Native: Found '__system_property_read_callback' handle at 0xb4000074103fa770
+09-06 15:04:30.368 14413 14413 D PIF/Native: JNI DG: Getting system classloader
+09-06 15:04:30.368 14413 14413 D PIF/Native: JNI DG: Creating module classloader
+09-06 15:04:30.370 14413 14413 D PIF/Native: JNI DG: Loading module class
+09-06 15:04:30.370 14413 14413 D PIF/Native: JNI DG: Sending JSON
+09-06 15:04:30.372 14413 14413 D PIF/Native: JNI DG: Calling EntryPoint.init
+09-06 15:04:30.466 14413 14427 D PIF/Native: [ro.vndk.version]: 31 (unchanged)
+09-06 15:04:30.466 14413 14427 D PIF/Native: [sys.use_memfd]: false (unchanged)
+09-06 15:04:30.473 14413 14413 D PIF/Native: [debug.force_rtl]: false (unchanged)
+09-06 15:04:30.474 14413 14413 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.476 14413 14413 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.476 14413 14413 D PIF/Native: [ro.product.vndk.version]: 31 (unchanged)
+09-06 15:04:30.480 14413 14413 D PIF/Native: [dalvik.vm.dexopt.secondary]: true (unchanged)
+09-06 15:04:30.483 14413 14413 D PIF/Native: [dalvik.vm.dexopt.secondary]: true (unchanged)
+09-06 15:04:30.487 14413 14413 D PIF/Native: [dalvik.vm.dexopt.secondary]: true (unchanged)
+09-06 15:04:30.495 14413 14413 D PIF/Native: [dalvik.vm.dexopt.secondary]: true (unchanged)
+09-06 15:04:30.511 14413 14413 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.512 14413 14413 D PIF/Native: [debug.force_rtl]: false (unchanged)
+09-06 15:04:30.512 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.517 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.520 14413 14413 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.521 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.523 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.556 14413 14413 D PIF/Native: [build.version.extensions.r]: 6 (unchanged)
+09-06 15:04:30.556 14413 14413 D PIF/Native: [build.version.extensions.s]: 6 (unchanged)
+09-06 15:04:30.557 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.561 14413 14413 D PIF/Native: [cache_key.is_user_unlocked]: 1896551341233534673 (unchanged)
+09-06 15:04:30.583 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.585 14413 14413 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.598 14413 14438 D PIF/Native: [cache_key.get_packages_for_uid]: 1896551341233535016 (unchanged)
+09-06 15:04:30.599 14413 14413 D PIF/Native: [cache_key.get_packages_for_uid]: 1896551341233535016 (unchanged)
+09-06 15:04:30.602 14413 14413 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.603 14413 14413 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.603 14413 14413 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.604 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.644 14413 14413 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.661 14413 14413 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.670 14413 14427 D PIF/Native: [cache_key.get_packages_for_uid]: 1896551341233535016 (unchanged)
+09-06 15:04:30.670 14413 14444 D PIF/Native: [cache_key.is_user_unlocked]: 1896551341233534673 (unchanged)
+09-06 15:04:30.672 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.676 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.681 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.691 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.692 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.698 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.702 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.703 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.704 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.704 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.704 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.732 14413 14427 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.770 14413 14429 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:30.840 14413 14429 D PIF/Native: [dalvik.vm.dexopt.secondary]: true (unchanged)
+09-06 15:04:30.882 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.908 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:30.911 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.915 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.917 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.918 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.930 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.949 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:30.951 14413 14429 D PIF/Native: [ro.secure]: 1 -> 1
+09-06 15:04:30.951 14413 14429 D PIF/Native: [ro.debuggable]: 0 -> 0
+09-06 15:04:30.952 14413 14429 D PIF/Native: [sys.usb.state]: adb (unchanged)
+09-06 15:04:30.952 14413 14429 D PIF/Native: [init.svc.adbd]: running (unchanged)
+09-06 15:04:30.952 14413 14429 D PIF/Native: [persist.sys.usb.config]: adb (unchanged)
+09-06 15:04:30.952 14413 14429 D PIF/Native: [sys.usb.config]: adb (unchanged)
+09-06 15:04:30.995 14413 14429 D PIF/Native: [cache_key.is_user_unlocked]: 1896551341233534673 (unchanged)
+09-06 15:04:30.999 14413 14429 D PIF/Native: [ro.build.fingerprint]: Itel/S665L-GL/itel-S665L:12/SP1A.210812.016/GL-20250207V533:user/release-keys (unchanged)
+09-06 15:04:30.999 14413 14429 D PIF/Native: [ro.product.first_api_level]: 31 -> 31
+09-06 15:04:30.999 14413 14429 D PIF/Native: [ro.build.version.security_patch]: 2025-02-05 -> 2025-02-05
+09-06 15:04:31.001 14413 14429 D PIF/Native: [ro.zygote]: zygote64_32 (unchanged)
+09-06 15:04:31.001 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.003 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.004 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.005 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.005 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.021 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.022 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.024 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:31.024 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:31.024 14413 14429 D PIF/Native: [cache_key.display_info]: 1896551341233535015 (unchanged)
+09-06 15:04:31.074 14413 14429 D PIF/Native: [ro.boot.flash.locked]: 1 -> 1
+09-06 15:04:31.074 14413 14429 D PIF/Native: [ro.boot.vbmeta.device_state]: locked -> locked
+09-06 15:04:31.264 14413 14429 D PIF/Native: [cache_key.package_info]: 1896551341233534990 (unchanged)
+09-06 15:04:31.550 14413 14429 D PIF/Native: [ro.boot.verifiedbootstate]: green -> green
+09-06 15:04:31.551 14413 14429 D PIF/Native: [ro.boot.vbmeta.digest]: b4179c327dcf9b6925d2f456ae8167195ff070d763668324471e9a8a9e200371 (unchanged)
+09-06 15:04:31.552 14413 14429 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:31.552 14413 14429 D PIF/Native: [cache_key.has_system_feature]: 1896551341233534602 (unchanged)
+09-06 15:04:31.559 14413 14429 D PIF/Native: [ro.surface_flinger.has_wide_color_display]: false (unchanged)
+09-06 15:04:31.559 14413 14429 D PIF/Native: [ro.surface_flinger.has_HDR_display]: false (unchanged)
+09-06 15:04:31.559 14413 14429 D PIF/Native: [ro.vndk.version]: 31 (unchanged)
+09-06 15:04:31.570 14413 14429 D PIF/Native: [ro.build.id]: SP1A.210812.016 -> SP1A.210812.016
+09-06 15:04:31.585 14413 14429 D PIF/Native: [net.qtaguid_enabled]: 1 (unchanged)
+09-06 15:04:31.588 14413 14429 D PIF/Native: [net.qtaguid_enabled]: 1 (unchanged)
+09-06 15:04:31.590 14413 14429 D PIF/Native: [net.qtaguid_enabled]: 1 (unchanged)

@@ -1,0 +1,14 @@
+{
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 5",
+  "BRAND": "google",
+  "PRODUCT": "redfin",
+  "DEVICE": "redfin",
+  "ID": "TQ3A.230901.001",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "RELEASE": "13",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "30",
+  "FINGERPRINT": "google/redfin/redfin:13/TQ3A.230901.001/10216780:user/release-keys"
+}

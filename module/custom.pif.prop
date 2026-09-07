@@ -1,0 +1,39 @@
+# Build Fields - fingerprint stock itel S665L (certified, private)
+MANUFACTURER=ITEL
+MODEL=itel S665L
+FINGERPRINT=Itel/S665L-GL/itel-S665L:12/SP1A.210812.016/GL-20250207V533:user/release-keys
+BRAND=Itel
+PRODUCT=S665L-GL
+DEVICE=itel-S665L
+RELEASE=12
+ID=SP1A.210812.016
+INCREMENTAL=GL-20250207V533
+TYPE=user
+TAGS=release-keys
+SECURITY_PATCH=2025-02-05
+DEVICE_INITIAL_SDK_INT=31
+
+# System Properties
+*.build.id=SP1A.210812.016
+*.security_patch=2025-02-05
+*api_level=31
+
+# Boot state - bungkus kondisi unlocked dari DroidGuard
+ro.boot.verifiedbootstate=green
+ro.boot.flash.locked=1
+ro.boot.vbmeta.device_state=locked
+ro.boot.veritymode=enforcing
+ro.boot.warranty_bit=0
+ro.warranty_bit=0
+ro.debuggable=0
+ro.secure=1
+sys.oem_unlock_allowed=0
+
+# Advanced Settings
+spoofBuild=1
+spoofProps=1
+spoofProvider=1
+spoofSignature=0
+spoofVendingFinger=0
+spoofVendingSdk=0
+verboseLogs=100
